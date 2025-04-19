@@ -53,7 +53,7 @@ public class Principal {
         filtroRecomendacion.filtra(episodio);
 
 
-//        otraPelicula.muestraFichaTecnica();
+       otraPelicula.muestraFichaTecnica();
 
 //        System.out.println("Mi otra película es: "+otraPelicula.nombre);
 //        System.out.println("Su fecha de lanzamiento fue: "+otraPelicula.fechaDeLanzamiento);

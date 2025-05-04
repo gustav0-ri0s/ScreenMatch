@@ -55,7 +55,6 @@ public class Titulo implements Comparable<Titulo> {
         System.out.println("Duracion en minutos: "+ getDuracionEnMinutos());
     }
 
-
     public void evalua(double nota){
         sumaDeLasEvaluaciones += nota;
         totalDeEvaluaciones++;
